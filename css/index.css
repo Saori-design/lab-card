@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;900&display=swap');
+
+.box{
+    background-color:white;
+    text-emphasis: justify;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 60%;
+    height: auto;
+    border-radius: 1em;
+    color: rgb(94, 92, 92);
+    margin: 3em;
+     
+}
+
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 1em 1em 0 0;
+}
+
+    
+.icon{
+    width: 3em;
+    height: 3em;
+    padding-right: 1em;
+}
+
+
+.highlight1{
+background-color: rgb(255, 254, 254);
+padding: 0 0 0 3em;
+}
+
+.highlight2{
+    background-color: rgb(255, 255, 255);
+    padding: 0 0 0 3em;
+}
+
+
+.howmany{
+    background-color: white;
+    color: black;
+    font-weight: 700;
+}
+
+.highlight3{
+    background-color: rgb(238, 236, 236);
+    padding: 0 0 0 3em;
+
+}
+.highlight4{
+    background-color:white ;
+    padding: 0 0 1em 0;
+    border-radius: 1em;
+
+}
+
+
+h1{ 
+    font-family: Roboto, sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+}
+h2{
+    font-family: Roboto, sans-serif;
+    font-size: 2em;
+    font-weight: 500;
+ 
+}
+
+h3{
+    font-family: Roboto, sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+p{
+    font-family: Roboto, sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+h4{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: 700;
+
+}
+
+.btn{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+    padding: 0 0 1em 12em;
+    color:red;
+    
+}
+body{
+    background-color: #eeeeee;
+}
